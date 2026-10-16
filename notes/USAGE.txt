@@ -1,0 +1,4 @@
+USAGE REA
+Local MCP. Hopper Ghidra IDA.
+Extract. Run. See readme.
+Stamp rev-k7gb8i-20261016
